@@ -1,0 +1,32 @@
+{
+  "notes": [
+    {
+      "id": "1733960727324",
+      "content": "# Welcome to MyKMS\n\nThis is your first note. You can:\n\n- Create new notes using the + button\n- Create folders using the folder+ button\n- Link to other notes using [[note name]] syntax\n- Click on links to navigate between notes\n- Use the search bar to find notes\n- Delete notes using the trash icon\n- Drag and drop notes into folders\n\nTry creating a new note and linking to it from here!",
+      "createdAt": "2024-12-11T23:45:27.324Z",
+      "updatedAt": "2024-12-11T23:45:27.325Z",
+      "folderId": "1733960748094"
+    },
+    {
+      "id": "1733960730539",
+      "content": "number 1\n",
+      "createdAt": "2024-12-11T23:45:30.539Z",
+      "updatedAt": "2024-12-11T23:45:35.205Z"
+    },
+    {
+      "id": "1733960735806",
+      "content": "# number 2\nStart writing here...\n\n[[number 1]]",
+      "createdAt": "2024-12-11T23:45:35.806Z",
+      "updatedAt": "2024-12-11T23:45:43.817Z"
+    }
+  ],
+  "folders": [
+    {
+      "id": "1733960748094",
+      "name": "1",
+      "createdAt": "2024-12-11T23:45:48.094Z"
+    }
+  ],
+  "lastSync": "2024-12-11T23:46:28.439Z",
+  "version": "1.0.0"
+}
